@@ -1,3 +1,4 @@
+Rápidas Instruções
 Para usar a aplicação, é necessário:
  - clonar em seu ambiente local
  - instalar as dependências tanto do front como backend
