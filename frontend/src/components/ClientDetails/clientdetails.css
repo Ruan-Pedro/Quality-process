@@ -1,0 +1,10 @@
+.form-input {
+    margin-left: 10px;
+    border-bottom: 3px #ccc solid;
+    transition: border-bottom 0.3s ease;
+}
+
+.form-input:focus {
+    outline: none;
+    border-bottom: 3px solid blue;
+}

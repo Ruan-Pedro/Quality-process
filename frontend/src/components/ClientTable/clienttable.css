@@ -1,0 +1,8 @@
+.table-section .filters input{
+    border-bottom: 3px solid #ccc;
+    transition: border-bottom 0.3s ease;
+}
+.table-section .filters input:focus{
+  outline: none;
+  border-bottom: 3px solid blue;
+}
