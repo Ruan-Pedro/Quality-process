@@ -11,7 +11,6 @@ const Client = Connection.define(
     },
     idUsuario: {
       type: Sequelize.BIGINT,
-      // primaryKey: true,
       allowNull: true,
     },
     Codigo: {
